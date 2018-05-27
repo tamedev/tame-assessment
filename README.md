@@ -30,11 +30,3 @@ libraries when writing your solutions! **and only these!**
 If your tests need data that can be fetched via XHR, stick a `.json` file in
 the `data` directory; you can access it at `/data/<filename>.json`.
 
-### Questions
-
-if you have any questions feel free to contact, niels@tamethat.com
-
-### Completed?
-
-Create a repo and send your solution to me, @bytewiz or niels@tamethat.com
-would love to review it!
